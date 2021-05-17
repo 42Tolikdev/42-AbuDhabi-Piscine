@@ -1,0 +1,5 @@
+Credentials cache: API:84F2E5BD-31C7-425E-AE95-558E6D75E2FD
+        Principal: aaskarbe@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 17 08:47:18 2021  May 17 18:47:05 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
